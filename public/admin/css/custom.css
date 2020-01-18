@@ -1,0 +1,8 @@
+.attr_value label{
+	width:100%
+}
+
+.select-dropdown{
+	position: absolute;
+	right:30px;
+}
